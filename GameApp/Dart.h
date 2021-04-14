@@ -12,7 +12,7 @@
 #include "Item.h"
 
 /**
-*  Class that represents the dart that runs on the gameboard
+*  Class that  also also testing represents the dart that runs on the gameboard
 */
 class CDart : public CItem
 {
